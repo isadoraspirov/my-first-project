@@ -16,4 +16,12 @@ The Coding Club website is a landing page for parents and children looking for a
 - The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
-## Footer
+## Markdown practice
+Colons can be used to align columns.
+
+| Building      | a table       | with markdown  |
+| ------------- |:-------------:| --------------:|
+| *italic test* | **bold test** | `inline test`  |
+| 42            | 400           |   97           |
+
+
